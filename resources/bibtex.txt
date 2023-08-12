@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{li2022gain,
+  title={GAIN: On the Generalization of Instructional Action Understanding},
+  author={Li, Junlong and Chen, Guangyi and Tang, Yansong and Bao, Jinan and Zhang, Kun and Zhou, Jie and Lu, Jiwen},
+  booktitle={The Eleventh International Conference on Learning Representations},
+  year={2022}
 }
